@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/simple_codes22" target="blank"><img src="https://img.shields.io/twitter/follow/simple_codes22?logo=twitter&style=for-the-badge" alt="simple_codes22" /></a> </p>
 
-- 🔭 I’m currently working on [My Portfolio](https://github.com/simple-codes22/my-portfolio)
+- 🔭 I’m currently working on [My Portfolio](https://github.com/simple-codes22/my-portfolio-2021)
 
 - 💬 Ask me about **React, Django, Material UI and MySQL**
 
