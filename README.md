@@ -1,7 +1,7 @@
 <h1 align="center">Hi There 👋, I'm Simeon Akanbi</h1>
 <h3 align="center">A passionate developer and positive thinker based in Nigeria</h3>
 
-<p align="left"> <a href="https://twitter.com/simple_codes22" target="blank"><img src="https://img.shields.io/twitter/follow/simple_codes22?logo=twitter&style=for-the-badge" alt="simple_codes22" /></a> </p>
+<p align="left"> <a href="https://twitter.com/simple_codes" target="blank"><img src="https://img.shields.io/twitter/follow/simple_codes22?logo=twitter&style=for-the-badge" alt="simple_codes22" /></a> </p>
 
 - 🔭 I’m currently working on [My Portfolio](https://github.com/simple-codes22/my-portfolio-2021)
 
