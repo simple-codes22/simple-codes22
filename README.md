@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/simple_codes" target="blank"><img src="https://img.shields.io/twitter/follow/simple_codes?logo=twitter&style=for-the-badge" alt="simple_codes" /></a> </p>
 
-- 🔭 I’m currently working on [My Portfolio](https://github.com/simple-codes22/my-portfolio-2021)
+- 🔭 I’m currently working on [Notation](https://github.com/simple-codes22/Notation "The best mathematics quiz app ever made")
 
 - 💬 Ask me about **React, Django, Material UI and MySQL**
 
