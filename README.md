@@ -1,5 +1,5 @@
 <h1 align="center">Hi There 👋, I'm Simeon Akanbi</h1>
-<h3 align="center">A passionate developer and positive thinker based in Nigeria</h3>
+<h3 align="center">A passionate developer and positive thinker</h3>
 
 <p align="left"> <a href="https://twitter.com/simple_codes" target="blank"><img src="https://img.shields.io/twitter/follow/simple_codes?logo=twitter&style=for-the-badge" alt="simple_codes" /></a> </p>
 
