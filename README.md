@@ -1,26 +1,68 @@
-<h1 align="center">Hi There 👋, I'm Simeon Akanbi</h1>
-<h3 align="center">A passionate developer and positive thinker</h3>
+# 👋 S1m30n (👨‍💻🚀✨)
+<!-- [![buymeacoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-%E2%9D%A4-%237b3fe4.svg?&logo=buymeacoffee&logoColor=white&labelColor=181717&style=flat-square)](https://github.com/sponsors/simple-codes22) [![sponsors](https://img.shields.io/badge/Sponsor-%E2%9D%A4-%23db61a2.svg?&logo=github&logoColor=white&labelColor=181717&style=flat-square)](https://github.com/sponsors/warengonzaga) -->
 
-<p align="left"> <a href="https://twitter.com/S1m30n_" target="blank"><img src="https://img.shields.io/twitter/follow/S1m30n_?logo=twitter&style=for-the-badge" alt="S1m30n_" /></a> </p>
 
-- 🔭 I’m currently working on [Notation](https://github.com/simple-codes22/Notation "The best mathematics quiz app ever made")
 
-- 💬 Ask me about **React, Django, Material UI and MySQL**
 
-- 📫 Do you want to reach out to me?? **simeonakanbi99@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/S1m30n_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="simple_codes22" height="30" width="40" /></a>
+![typing svg](https://readme-typing-svg.demolab.com?font=Roboto&size=30&pause=1000&color=7B3FE4&width=435&lines=Backend+Developer;Web3+Engineer;Open-Source+Contributor;Typescript+Enthusiast;;)
+
+A passionate backend developer, Web3 engineer, TypeScript and Python enthusiast, critical thinker, tech community contributor, problem solver, lifelong learner, and innovative creator with a focus on building scalable, secure, and efficient solutions. 💻🚀☕
+
+
+- 💝 Building solutions for fun
+- 🚀 Pushing node_modules to production
+- 🌱 Currently Building (Shhhh it's a secret)
+- 📚 Continuous student on Web3, Blockchain, and AI
+- 🎯 Wasting my time to save other people's time
+
+
+
+
+## 🔧 Technologies
+
+![skills](https://skillicons.dev/icons?i=html,css,js,ts,nodejs,react,mysql,py,docker,kubernetes,md,git,bash,cloudflare,aws,vscode,solidity,mui,django,postgres,supabase,appwrite,rust&theme=light)
+
+
+<br>
+<summary>&#127942 <b>GitHub Trophy</b></summary><br/>
+
+![Github Trophy](https://github-profile-trophy.vercel.app/?username=simple-codes22&theme=onedark&column=-1)
+
+
+
+
+
+<summary>&#9889 <b>GitHub Stats</b></summary><br/>
+
+[![Simeon Akanbi's Github Stats](https://readme-stats.warengonzaga.com/api?username=simple-codes22&show_icons=true&count_private=true)](https://github.com/warengonzaga/github-readme-stats) [![Top Language](https://readme-stats.warengonzaga.com/api/top-langs?username=simple-codes22&layout=compact)](https://github.com/simple-codes22/github-readme-stats)
+
+
+<summary>&#128187 <b>GitHub Streak</b></summary><br/>
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=simple-codes22)
+
+
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=simple-codes22&show_icons=true&locale=en&layout=compact" alt="simple-codes22" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=simple-codes22&show_icons=true&locale=en" alt="simple-codes22" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=simple-codes22&" alt="simple-codes22" /></p>
 
 
+<!-- markdownlint-enable MD033 -->
+
+<!-- --- -->
+
+<!-- 💻💖☕ by [Waren Gonzaga](https://warengonzaga.com) | [YHWH](https://youtu.be/HHrxS4diLew?t=44) 🙏 -->
+
+<!-- 
+[personal website]: https://warengonzaga.com
+[business website]: https://wgtechlabs.com
+[biolink]: https://bio.link/warengonzaga
+[facebook]: https://facebook.com/warengonzagaofficial
+[instagram]: https://instagram.com/warengonzagaofficial
+[twitter]: https://twitter.com/warengonzaga
+[youtube]: https://youtube.com/warengonzaga
+[github]: https://github.com/warengonzaga
+-->
